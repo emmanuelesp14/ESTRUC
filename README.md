@@ -3,9 +3,7 @@
 ##EMMANUEL DE JESUS ESPARZA
 
 ###Estructura y organizacion de datos
-Instituto Tecnológico de
-Toluca, del 10 al 13 de
-febrero de 2014.
+Instituto Tecnológico
 
 Representantes de los
 Institutos Tecnológicos de:
