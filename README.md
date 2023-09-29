@@ -176,3 +176,13 @@ dinámicas de acuerdo al problema a resolver.
 
 ##BASE DE DATOS:
 ##Una base de datos es una herramienta para recopilar y organizar información
+
+CONCEPTOS PRINCIPALES
+
+ESTRUCTURA DE DATOS: Son aquellas en los que los elementos ocupan lugares sucecivos a la estructura y cada uno de ellos tienen un unico sucesor y un unico predecesor.
+
+Algoritmo: Es cualquier cosa que funcione paso a paso, donde cada paso se puede describir sin ambiguedad y sin hacer referencia a una computadora en particular y ademas tiene un limite fijo en cuanto a la cantidad de datos que se pueden leer y escribir en un solo paso.
+
+ESTRUCTURA DE DATOS DINAMICA: Se van generando o eliminando elementos al momento de ejecuciòn.
+
+ESTRUCTURA DE DATOS NO-LINEALES: son aquellas en las que cada elemento puede estar enlazado a cualquier otro componente.
