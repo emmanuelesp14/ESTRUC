@@ -149,8 +149,14 @@ lineales de acuerdo al problema a resolver.
  Identificar las estructuras de datos estáticas y
 dinámicas de acuerdo al problema a resolver.
 >>>>>>> 9505a69e4acea321941d920d5b443dce41b6423f
+<<<<<<< HEAD
 
 ##CONCEPTOS
+=======
+>>>>>>>
+>>>>>>>
+ ##CONCEPTOS
+>>>>>>> bcf1d2a677a0e5943bc2a47c1bb7596fd7412120
 
 ##ALGORITMO:
 ##secuencia de pasos finitos bien definidos que resuelven un problema
@@ -176,4 +182,16 @@ dinámicas de acuerdo al problema a resolver.
 ##BASE DE DATOS:
 ##Una base de datos es una herramienta para recopilar y organizar información
 
+<<<<<<< HEAD
 ##UNIDAD 2: ESTRUCTURAS LINEALES
+=======
+CONCEPTOS PRINCIPALES
+
+ESTRUCTURA DE DATOS: Son aquellas en los que los elementos ocupan lugares sucecivos a la estructura y cada uno de ellos tienen un unico sucesor y un unico predecesor.
+
+Algoritmo: Es cualquier cosa que funcione paso a paso, donde cada paso se puede describir sin ambiguedad y sin hacer referencia a una computadora en particular y ademas tiene un limite fijo en cuanto a la cantidad de datos que se pueden leer y escribir en un solo paso.
+
+ESTRUCTURA DE DATOS DINAMICA: Se van generando o eliminando elementos al momento de ejecuciòn.
+
+ESTRUCTURA DE DATOS NO-LINEALES: son aquellas en las que cada elemento puede estar enlazado a cualquier otro componente.
+>>>>>>> bcf1d2a677a0e5943bc2a47c1bb7596fd7412120
