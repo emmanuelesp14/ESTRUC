@@ -149,3 +149,31 @@ lineales de acuerdo al problema a resolver.
  Identificar las estructuras de datos estáticas y
 dinámicas de acuerdo al problema a resolver.
 >>>>>>> 9505a69e4acea321941d920d5b443dce41b6423f
+
+##CONCEPTOS
+
+##ALGORITMO:
+##secuencia de pasos finitos bien definidos que resuelven un problema
+
+##ESTRUCTURA DE DATOS:
+##forma de organizar los datos en la computadora, de tal manera que nos permita realizar unas operaciones con ellas de forma muy eficiente
+
+##DATOS:
+##representación simbólica ya sea numérica o alfabética, cuyo valor está listo para ser procesado por un ordenador y mostrarlo a un usuario en modo de información.
+
+##INFORMACION:
+##conocimiento explícito extraído por seres vivos o sistemas expertos como resultado de interacción con el entorno o percepciones sensibles del mismo entorno.
+
+##METADATOS:
+##“datos acerca de los datos” y sirven para suministrar información sobre los datos producidos.
+
+##BigData:
+##El big data le permite recopilar datos de redes sociales, visitas a páginas web, registros de llamadas y otras fuentes para mejorar la experiencia de interacción, así como maximizar el valor ofrecido.
+
+##CIENCIA DE DATOS:
+##La ciencia de datos es el estudio de datos con el fin de extraer información significativa para empresas.
+
+##BASE DE DATOS:
+##Una base de datos es una herramienta para recopilar y organizar información
+
+##UNIDAD 2: ESTRUCTURAS LINEALES
