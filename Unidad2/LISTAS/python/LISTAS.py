@@ -1,1 +1,43 @@
+#LISTAS PRACTICA 1
 ITIC3 = ["EMMANUEL DE JESUS ESPARZA", "EDUARDO FLORES GALLEGOS", "XITLALI GONZALEZ", "JUAN DE DIOS PRIETO", "ZULEYMA DE JESUS MANZANO"]
+Carreras_ITPA = ["LOGISTICA", "ITIC", "GESTION EMPRESARIAL"]
+Edades = [18, 18, 18, 18, 18]
+
+#IMPRIMIR LISTA
+print(Edades)
+print(ITIC3)
+print(Carreras_ITPA)
+
+#IMPRIMIR EL TERCER DATO DE LA LISTA
+print(Carreras_ITPA[2])
+print(ITIC3[2])
+print(Edades[2])
+
+#AGREGAR ELEMENTO A FINAL DE LA LISTA
+ITIC3.append('SAJITH')
+
+#AGREGAR OTRA LISTA
+ITIC3.extend(['NIDIA', 'ARATH'])
+print(ITIC3)
+
+#AGREGAR ELEMENTO EN LA POSICION 5
+ITIC3.insert(4,'RAINER')
+print(ITIC3)
+
+#ELIMINAR DATO EN UNA POSICION
+del Edades[0]
+print(Edades)
+
+#VER TAMAÑO DE LA LISTA
+print(len(Edades))
+print(len(ITIC3))
+print(len(Carreras_ITPA))
+
+#ELIMINAR ELEMENTOS DETERMINADO
+Edades.remove(18)
+print(Edades)
+
+#ORDENAR ELEMENTOS
+print(Edades)
+Edades.sort()
+print(Edades)
