@@ -194,4 +194,24 @@ Algoritmo: Es cualquier cosa que funcione paso a paso, donde cada paso se puede 
 ESTRUCTURA DE DATOS DINAMICA: Se van generando o eliminando elementos al momento de ejecuciòn.
 
 ESTRUCTURA DE DATOS NO-LINEALES: son aquellas en las que cada elemento puede estar enlazado a cualquier otro componente.
->>>>>>> bcf1d2a677a0e5943bc2a47c1bb7596fd7412120
+ Listas: Las listas son una estructura de datos que permite almacenar y acceder a un conjunto de elementos en un orden específico.
+
+Diccionarios:Una estructura de datos muy utilizada en Python es el diccionario, o 'dict'. Se trata de pares de key-values o claves y sus valores, asociados, que guardan la información en la estructura.
+
+Diferencia entre listas y diccionarios:
+
+Las listas son un conjunto de variables que se pueden modificar. Los diccionarios son como las listas, pero con una mayor facilidad para referirnos a un elemento del diccionario. Las listas acceden a cada valor por número, mientras que los diccionarios acceden a cada valor por nombre. Las listas son una estructura de datos que combina una serie de valores, mientras que los diccionarios son un mapa. Las listas asignan posiciones o índices a valores, mientras que los diccionarios asignan claves significativas a valores.
+
+Pilas:Una pila (stack) es una estructura de datos, que consta de una serie de datos, en la cual las inserciones y eliminaciones se hacen por un extremo, llamado cima (top), de la pila.
+
+Cola:Una cola en programación hace referencia a una especie de lista enlazada que sirve para reflejar algunos tipos de datos o una variable. Dichos datos deben ser de la misma clase y tienen que contar con un orden dentro de la cola.
+
+Cola estatica:Es una estructura de datos en donde los elementos se insertan sólo por un extremo de la fila y la extracción de los datos, por el otro.
+
+Colas dinamicas:estructura de datos que permite borrar elementos de un extremo llamado frente de la cola e insertar elementos en el otrp extremo de la cola llamado fianl de la cola.
+
+Lenguaje R:R es un lenguaje de programación interactivo, orientado a objetos y diseñado para el analisis de datos estaticos y la craecion de graficos.
+
+Lenguaje python:Se trata de un lenguaje de programación multiparadigma, ya que soporta parcialmente la orientación a objetos, programación imperativa y, en menor medida, programación funcional. Es un lenguaje interpretado, dinámico y multiplataforma.
+
+lenjuaje JavaScript:es un lenguaje de programación o de secuencias de comandos que te permite implementar funciones complejas en páginas web, cada vez que una página web hace algo más que sentarse allí y mostrar información estática para que la veas.
