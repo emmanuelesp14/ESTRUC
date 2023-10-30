@@ -18,7 +18,7 @@ class Cola:
 
 
 class Pila:
-    def _init_(self):
+    def __init__(self):
         self.items = []
     
      
