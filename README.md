@@ -215,3 +215,26 @@ Lenguaje R:R es un lenguaje de programación interactivo, orientado a objetos y 
 Lenguaje python:Se trata de un lenguaje de programación multiparadigma, ya que soporta parcialmente la orientación a objetos, programación imperativa y, en menor medida, programación funcional. Es un lenguaje interpretado, dinámico y multiplataforma.
 
 lenjuaje JavaScript:es un lenguaje de programación o de secuencias de comandos que te permite implementar funciones complejas en páginas web, cada vez que una página web hace algo más que sentarse allí y mostrar información estática para que la veas.
+
+##UNIDAD 3: ESTRUCTURAS NO LINEALES
+-----------------------------------
+CONCEPTOS:
+-RECURSIVIDAD:
+La recursividad es un concepto que se puede aplicar a estructuras no lineales, como árboles, grafos y otras estructuras de datos jerárquicas. La recursividad se refiere a la capacidad de una función o algoritmo para llamarse a sí mismo en su proceso de resolución o procesamiento. En el contexto de estructuras no lineales, la recursividad se utiliza comúnmente para recorrer y realizar operaciones en los elementos de la estructura de manera jerárquica.
+
+-ARBOLES:
+Los árboles son una forma común de estructura no lineal en ciencias de la computación y estructuras de datos. Los árboles se utilizan para organizar datos de manera jerárquica, lo que los hace ideales para representar relaciones padre-hijo o jefe-subordinado, entre otros. Los árboles constan de nodos conectados por aristas y se utilizan en una variedad de aplicaciones, como estructuras de directorios de sistemas de archivos, árboles genealógicos, análisis sintáctico de lenguajes de programación, algoritmos de búsqueda y más.
+
+-GRAFOS:
+Los grafos son otra estructura no lineal importante en ciencias de la computación y matemáticas discretas. Los grafos se utilizan para representar relaciones entre elementos y datos en una variedad de aplicaciones, desde redes de comunicación hasta rutas de navegación, análisis de redes sociales, sistemas de recomendación y más. 
+
+##UNIDAD 4: MÉTODO DE ORDENAMIENTO Y BÚSQUEDA:
+---------------------------------------------
+-MÉTODO DE ORDENAMIENTO:
+El método de ordenamiento, en el contexto de la informática y las ciencias de la computación, se refiere a un conjunto de técnicas y algoritmos que se utilizan para organizar un conjunto de elementos en un orden específico, ya sea de manera ascendente o descendente. Estos métodos se aplican a estructuras de datos como arreglos, listas o estructuras similares y se utilizan para facilitar la búsqueda, recuperación y manipulación de datos de manera eficiente.
+
+-MÉTODO DE BÚSQUEDA:
+Un método de búsqueda, en el contexto de la informática y las ciencias de la computación, se refiere a un conjunto de técnicas y algoritmos utilizados para localizar un elemento específico dentro de una colección de datos, como una lista, un arreglo o una estructura de datos similar. Estos métodos permiten encontrar un elemento deseado de manera eficiente, reduciendo la cantidad de comparaciones o accesos a los datos, lo que ahorra tiempo y recursos en la búsqueda.
+
+-RECUPERACIÓN DE DATOS:
+La recuperación de datos en el contexto de estructuras de datos se refiere al proceso de acceder y extraer información específica o elementos almacenados en una estructura de datos, como arreglos, listas, árboles, grafos o cualquier otra organización de datos. En otras palabras, se trata de buscar, encontrar y obtener los datos que se necesitan dentro de una estructura de datos.
