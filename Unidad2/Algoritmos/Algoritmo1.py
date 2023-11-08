@@ -4,13 +4,14 @@ class NumberManager:
     def __init__(self):
         self.unique_numbers = set()
         self.number_queue = Queue()
-        self.number_stack = []
+        self.number_stack = []  
 
     def add_number(self, number):
         if number not in self.unique_numbers:
             self.unique_numbers.add(number)
+            #self.number_stack.append(number)
             self.number_queue.put(number)
-            self.number_stack.append(number)
+            
 
     def display_numbers(self):
         print("Números únicos en la cola:")
